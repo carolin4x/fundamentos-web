@@ -1,0 +1,72 @@
+/* Estilos da Pagina index.html*/
+
+.center {
+    text-align: center;
+    }
+
+.justify {
+     text-align: justify
+    }
+    
+.container { 
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}    
+    
+#menu li { 
+    display: inline;
+    padding: 30px;
+    
+}
+
+#menu li a { 
+    text-decoration: none;
+    color: rgb(168, 20, 0);  
+    font-size: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+#menu li a:hover{ 
+    color: rgb(3, 44, 54);
+}
+
+.p-30 { 
+   padding: 30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+
+.br-50 { 
+    border-radius: 50%;
+}
+
+.wh-300 { 
+    width: 420px;
+    height: 440px;
+}
+
+.fonte1 { 
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tam { 
+    width: 50px;
+    height: 50px;
+}
+.mb-40 { 
+    margin-bottom: 40px;
+}
+
+
+/* Estilos da Pagina contato.html*/
+
+.center {
+    text-align: center;
+    }
+
+#menu li { 
+    display: inline;
+    padding: 30px;
+}    
